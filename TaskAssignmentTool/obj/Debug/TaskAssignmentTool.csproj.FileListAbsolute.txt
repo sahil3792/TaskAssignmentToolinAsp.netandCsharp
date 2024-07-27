@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\TaskAssignmentTool.dll.config
 C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\TaskAssignmentTool.dll
 C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\TaskAssignmentTool.pdb
@@ -116,3 +117,64 @@ C:\Users\Admin\Desktop\Sahil Shaikh\TaskAssignmentTool\TaskAssignmentTool\obj\De
 C:\Users\Admin\Desktop\Sahil Shaikh\TaskAssignmentTool\TaskAssignmentTool\obj\Debug\TaskAssi.C9852A91.Up2Date
 C:\Users\Admin\Desktop\Sahil Shaikh\TaskAssignmentTool\TaskAssignmentTool\obj\Debug\TaskAssignmentTool.dll
 C:\Users\Admin\Desktop\Sahil Shaikh\TaskAssignmentTool\TaskAssignmentTool\obj\Debug\TaskAssignmentTool.pdb
+=======
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\TaskAssignmentTool.dll.config
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\TaskAssignmentTool.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\TaskAssignmentTool.pdb
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\csc.exe
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\csc.exe.config
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\csc.rsp
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\csi.exe
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\csi.exe.config
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\csi.rsp
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Console.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Net.Http.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Net.Sockets.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\vbc.exe.config
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\vbc.rsp
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\obj\Debug\TaskAssignmentTool.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\obj\Debug\TaskAssignmentTool.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\obj\Debug\TaskAssi.C9852A91.Up2Date
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\obj\Debug\TaskAssignmentTool.dll
+C:\Users\USER\Documents\Projects\TaskAssignmentTool\TaskAssignmentTool\obj\Debug\TaskAssignmentTool.pdb
+>>>>>>> e4a109c2acd044ad26d79ca64c7fb402b2fc5836
