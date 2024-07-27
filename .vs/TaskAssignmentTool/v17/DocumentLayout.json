@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\userperformance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\userperformance.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\taskassignmenttool\\taskassignmenttool\\adminperformer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\adminperformer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\userperformance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\userperformance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\adminassigntask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\adminassigntask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\taskassignmenttool\\taskassignmenttool\\adminassigntask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\adminassigntask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\taskassignmenttool\\taskassignmenttool\\userhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\userhistory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\taskassignmenttool\\taskassignmenttool\\adminperformer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\adminperformer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|c:\\users\\admin\\desktop\\sahil shaikh\\taskassignmenttool\\taskassignmenttool\\userretask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\userretask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\userretask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\userretask.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\adminrejectedtask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\adminrejectedtask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\admintaskreview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\admintaskreview.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\admintaskreview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\admintaskreview.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\usermytask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\usermytask.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\user.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\adminassignscore.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\adminassignscore.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\taskassignmenttool\\userhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9C9D527-3181-44DD-AE9B-65CD87868B3E}|TaskAssignmentTool\\TaskAssignmentTool.csproj|solutionrelative:taskassignmenttool\\userhistory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminAssignTask.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminAssignTask.aspx",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminAssignTask.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminAssignTask.aspx",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminAssignTask.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-27T07:07:42.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserHistory.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserHistory.aspx",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\UserHistory.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserHistory.aspx",
+              "RelativeToolTip": "TaskAssignmentTool\\UserHistory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-27T06:59:13.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminPerformer.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminPerformer.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminPerformer.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminPerformer.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminPerformer.aspx.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA0wDMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:03:40.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAssignTask.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminAssignTask.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminAssignTask.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminAssignTask.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminAssignTask.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:41:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserPerformance.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserPerformance.aspx",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\UserPerformance.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserPerformance.aspx",
+              "RelativeToolTip": "TaskAssignmentTool\\UserPerformance.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-26T05:28:12.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserPerformance.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserPerformance.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\UserPerformance.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserPerformance.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\UserPerformance.aspx.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwDkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:32:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserReTask.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserReTask.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\UserReTask.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserReTask.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\UserReTask.aspx.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAiwDQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:35:56.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminPerformer.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminPerformer.aspx",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminPerformer.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminPerformer.aspx",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminPerformer.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-27T03:55:27.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\Admin.Master",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\Admin.Master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\Admin.Master",
+              "RelativeToolTip": "TaskAssignmentTool\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-26T04:40:16.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\Logout.aspx",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\Logout.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\Logout.aspx",
+              "RelativeToolTip": "TaskAssignmentTool\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-26T04:46:58.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.Master",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\User.Master",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\User.Master",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\User.Master",
+              "RelativeToolTip": "TaskAssignmentTool\\User.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-26T04:47:34.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminTaskReview.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminTaskReview.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminTaskReview.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminTaskReview.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminTaskReview.aspx.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwFUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:41:03.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminRejectedTask.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminRejectedTask.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminRejectedTask.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminRejectedTask.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminRejectedTask.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:41:25.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminHome.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminHome.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminHome.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminHome.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminHome.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:41:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserReTask.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserReTask.aspx",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\UserReTask.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserReTask.aspx",
+              "RelativeToolTip": "TaskAssignmentTool\\UserReTask.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-26T10:47:54.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminTaskReview.aspx",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminTaskReview.aspx",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminTaskReview.aspx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminTaskReview.aspx",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminTaskReview.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-26T06:01:50.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\Logout.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\Logout.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:48:29.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserMyTask.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserMyTask.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\UserMyTask.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserMyTask.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\UserMyTask.aspx.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAqwE8AAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:40:32.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserHistory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserHistory.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\UserHistory.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\UserHistory.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\UserHistory.aspx.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:40:43.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminAssignScore.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminAssignScore.aspx.cs",
+              "RelativeDocumentMoniker": "TaskAssignmentTool\\AdminAssignScore.aspx.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Sahil Shaikh\\TaskAssignmentTool\\TaskAssignmentTool\\AdminAssignScore.aspx.cs",
+              "RelativeToolTip": "TaskAssignmentTool\\AdminAssignScore.aspx.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T19:47:32.632Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 912,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
